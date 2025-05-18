@@ -3,7 +3,7 @@
 
 ---
 name: Yngping
-version: 2024.11.07.3
+version: "2024.12.14.1"
 sort: by_weight
 ...
 
@@ -148,7 +148,7 @@ u	u
 ụ	u
 ǒu	ou
 ôu	ou
-ọu	o
+ọu	ou
 ü	y
 ǖ	y
 ǚ	y
@@ -548,7 +548,7 @@ bû	bu
 bụ	bu
 bǒu	bou
 bôu	bou
-bọu	bo
+bọu	bou
 bü	by
 bǖ	by
 bǚ	by
@@ -948,7 +948,7 @@ pû	pu
 pụ	pu
 pǒu	pou
 pôu	pou
-pọu	po
+pọu	pou
 pü	py
 pǖ	py
 pǚ	py
@@ -1348,7 +1348,7 @@ mû	mu
 mụ	mu
 mǒu	mou
 môu	mou
-mọu	mo
+mọu	mou
 mü	my
 mǖ	my
 mǚ	my
@@ -1748,7 +1748,7 @@ wû	wu
 wụ	wu
 wǒu	wou
 wôu	wou
-wọu	wo
+wọu	wou
 wü	wy
 wǖ	wy
 wǚ	wy
@@ -2148,7 +2148,7 @@ dû	du
 dụ	du
 dǒu	dou
 dôu	dou
-dọu	do
+dọu	dou
 dü	dy
 dǖ	dy
 dǚ	dy
@@ -2548,7 +2548,7 @@ tû	tu
 tụ	tu
 tǒu	tou
 tôu	tou
-tọu	to
+tọu	tou
 tü	ty
 tǖ	ty
 tǚ	ty
@@ -2948,7 +2948,7 @@ zû	zu
 zụ	zu
 zǒu	zou
 zôu	zou
-zọu	zo
+zọu	zou
 zü	zy
 zǖ	zy
 zǚ	zy
@@ -3348,7 +3348,7 @@ cû	cu
 cụ	cu
 cǒu	cou
 côu	cou
-cọu	co
+cọu	cou
 cü	cy
 cǖ	cy
 cǚ	cy
@@ -3748,7 +3748,7 @@ nû	nu
 nụ	nu
 nǒu	nou
 nôu	nou
-nọu	no
+nọu	nou
 nü	ny
 nǖ	ny
 nǚ	ny
@@ -4148,7 +4148,7 @@ sû	su
 sụ	su
 sǒu	sou
 sôu	sou
-sọu	so
+sọu	sou
 sü	sy
 sǖ	sy
 sǚ	sy
@@ -4548,7 +4548,7 @@ lû	lu
 lụ	lu
 lǒu	lou
 lôu	lou
-lọu	lo
+lọu	lou
 lü	ly
 lǖ	ly
 lǚ	ly
@@ -4948,7 +4948,7 @@ jû	ju
 jụ	ju
 jǒu	jou
 jôu	jou
-jọu	jo
+jọu	jou
 jü	jy
 jǖ	jy
 jǚ	jy
@@ -5348,7 +5348,7 @@ njû	nju
 njụ	nju
 njǒu	njou
 njôu	njou
-njọu	njo
+njọu	njou
 njü	njy
 njǖ	njy
 njǚ	njy
@@ -5748,7 +5748,7 @@ gû	gu
 gụ	gu
 gǒu	gou
 gôu	gou
-gọu	go
+gọu	gou
 gü	gy
 gǖ	gy
 gǚ	gy
@@ -6148,7 +6148,7 @@ kû	ku
 kụ	ku
 kǒu	kou
 kôu	kou
-kọu	ko
+kọu	kou
 kü	ky
 kǖ	ky
 kǚ	ky
@@ -6548,7 +6548,7 @@ ngû	ngu
 ngụ	ngu
 ngǒu	ngou
 ngôu	ngou
-ngọu	ngo
+ngọu	ngou
 ngü	ngy
 ngǖ	ngy
 ngǚ	ngy
@@ -6948,7 +6948,7 @@ hû	hu
 hụ	hu
 hǒu	hou
 hôu	hou
-họu	ho
+họu	hou
 hü	hy
 hǖ	hy
 hǚ	hy
