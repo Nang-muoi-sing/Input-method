@@ -27,4 +27,4 @@
 
 [榕拼方案规范文档](https://jcnf40n3hvft.feishu.cn/wiki/QJ9WwaEHvihROKkEJ6uc2kzsnCc?fromScene=spaceOverview)
 
-[榕拼方案规范文档·分册：福州城里]([https://zingzeu-team.feishu.cn/wiki/wikcnLCl6Yfel1BqEjeMhKlUKbg](https://jcnf40n3hvft.feishu.cn/wiki/Xs7HwuxwUiV4cmkzrrPck9uTnne?fromScene=spaceOverview))
+[榕拼方案规范文档·分册：福州城里](https://jcnf40n3hvft.feishu.cn/wiki/Xs7HwuxwUiV4cmkzrrPck9uTnne?fromScene=spaceOverview)
