@@ -25,6 +25,6 @@
 ### 简介
 详见以下连接（键盘映射规则在主方案表4）：
 
-[榕拼方案规范文档](https://zingzeu-team.feishu.cn/wiki/wikcnTTSjyz4aJReEAej3ZsIQv8)
+[榕拼方案规范文档](https://jcnf40n3hvft.feishu.cn/wiki/QJ9WwaEHvihROKkEJ6uc2kzsnCc?fromScene=spaceOverview)
 
-[榕拼方案规范文档·分册：福州城里](https://zingzeu-team.feishu.cn/wiki/wikcnLCl6Yfel1BqEjeMhKlUKbg)
+[榕拼方案规范文档·分册：福州城里]([https://zingzeu-team.feishu.cn/wiki/wikcnLCl6Yfel1BqEjeMhKlUKbg](https://jcnf40n3hvft.feishu.cn/wiki/Xs7HwuxwUiV4cmkzrrPck9uTnne?fromScene=spaceOverview))
